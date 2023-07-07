@@ -1,32 +1,42 @@
 [
 	{
 		"id": 1,
-		"title": "accusamus beatae ad facilis cum similique qui sunt",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/stomweb.png"
+		"title": "STOMWEB (без бэкенда)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/stomweb.png",
+		"description": {
+			"url": "https://stomweb-project.vercel.app/",
+			"stack": "Gulp, HTML, SCSS, Vanilla JS",
+			"text": "Проект полностью с нуля, в ходе разработки использовался модульный подход, методология БЭМ. На странице контактов используется API Яндекс карт"
+		}
 	},
 	{
 		"id": 2,
-		"title": "reprehenderit est deserunt velit ipsam",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png"
+		"title": "Infinite Family (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png",
+		"description": {
+			"url": "https://inf-fam.ru/",
+			"stack": "Gulp, HTML, SCSS, Vanilla JS",
+			"text": "Разработка главной страницы с нуля (с шапкой и подвалом), в ходе разработки использовался модульный подход, методология БЭМ, добавление карты на странице контактов (API Яндекс карт)"
+		}
 	},
 	{
 		"id": 3,
-		"title": "officia porro iure quia iusto qui ipsa ut modi",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png"
+		"title": "Инкубатор Кагальницкая (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/100pcs.png",
+		"description": {
+			"url": "https://100штук.рф/",
+			"stack": "Gulp, HTML, CSS, Vanilla JS",
+			"text": "Проект полностью с нуля, в ходе разработки использовалась комбинация методологий БЭМ и OOSCSS."
+		}
 	},
 	{
 		"id": 4,
-		"title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png"
-	},
-	{
-		"id": 5,
-		"title": "natus nisi omnis corporis facere molestiae rerum in",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png"
-	},
-	{
-		"id": 6,
-		"title": "accusamus ea aliquid et amet sequi nemo",
-		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png"
+		"title": "Телекор (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/tdtel.png",
+		"description": {
+			"url": "https://tdtel.ru/about_us/",
+			"stack": "HTML, CSS, Vanilla JS",
+			"text": "Верстка страницы под fullscrin, подключение и настройка библиотеки fullPage.js."
+		}
 	}
 ]

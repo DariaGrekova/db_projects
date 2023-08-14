@@ -36,7 +36,7 @@
 		"description": {
 			"url": "https://tdtel.ru/about_us/",
 			"stack": "HTML, CSS, Vanilla JS",
-			"text": "Верстка страницы под fullscrin, подключение и настройка библиотеки fullPage.js."
+			"text": "Верстка страницы под fullscreen, подключение и настройка библиотеки fullPage.js."
 		}
 	}
 ]
